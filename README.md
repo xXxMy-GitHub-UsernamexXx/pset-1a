@@ -94,3 +94,54 @@ If you submit your problem set at midnight (i.e., September 26, 2019, at 12:00am
 * Your code must adhere to the course style guidelines.
 
 Happy coding!
+
+# Problem Set 1b
+
+It's time to put your skills to the test. This problem set focuses on using CSS to add styling to the website you built in [Problem Set 1a](https://github.com/ap-principles-ucvts/pset-1a-skeleton).
+
+## Getting Started
+
+You don't need to create a new [GitHub](https://github.com/) repository to store your code. You'll be using the same repository you used for [Problem Set 1a](https://github.com/ap-principles-ucvts/pset-1a-skeleton).
+
+## Requirements
+
+Enhance the website you built in [Problem Set 1a](https://github.com/ap-principles-ucvts/pset-1a-skeleton) by adding CSS styles. Your new and improved website must meet the following minimum requirements, but you're always welcome to go further.
+
+### Page Structure
+
+Your website must be structured in accordance with the following specifications.
+
+* All CSS files should be stored in a folder called `styles`.
+* Your HTML files must link to your CSS files (i.e., use external style sheets).
+
+### Styles
+
+Across each of your pages, your website must include the following.
+
+* Selectors
+   - Exactly 1 universal selector.
+   - At least 3 type selectors.
+   - At least 3 class selectors.
+   - At least 3 ID selectors.
+   - At least 1 attribute selector.
+   - At least 1 pseudo-class or pseudo-element selector.
+   - At least 1 combinator.
+
+Remember, CSS is all about style. Choose colors that go well together, fonts (types, sizes, and styles) that are visually appealing. Take a look at professionally designed websites for inspiration. Aim for a clean, tasteful design.
+
+## Deadline
+
+Please read very carefully. Historically, most students lose points on problem sets for simply failing to read the instructions and requirements.
+
+* October 8, 2019, at 11:59pm.
+
+If you submit your problem set at midnight (i.e., October 9, 2019, at 12:00am), it is considered **late**!
+
+### Submission Requirements
+
+* Your code **must** be error-free. Code that fails to meet this minimum requirement will not be accepted.
+* There must be **at least** 10 unique commits to your repository.
+* Your code must meet each requirement outlined in the *Requirements* section.
+* Your code must adhere to the course style guidelines.
+
+Happy coding!
