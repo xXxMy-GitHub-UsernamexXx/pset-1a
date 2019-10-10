@@ -1,0 +1,55 @@
+* {
+                                margin: 0;
+                                padding: 0;
+}
+
+th {
+                                background: purple;
+}
+
+a {
+                                color: purple;
+}
+
+a:hover {
+                                color: red;
+}
+
+div {
+                                border: 5px solid purple;
+}
+
+div > ul > li {
+                                font-weight: bold;
+                                color: red;
+}
+
+.page-header {
+                                color: purple;
+                                font-weight: bold;
+                                font-style: italic;
+}
+
+.table-img {
+                                margin: 2
+}
+
+.img-table {
+                                background-color: white;
+}
+
+#p-group-1 {
+                                border: 3px solid black;
+}
+
+#p-group-2 {
+                                border: 3px solid blue;
+}
+
+#list {
+                                border: 3px solid red;
+}
+
+a[href="https://google.com"] {
+                                color: green;
+}
