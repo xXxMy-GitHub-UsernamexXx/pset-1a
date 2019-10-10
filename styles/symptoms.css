@@ -4,10 +4,6 @@
                                 color: blue;
 }
 
-th {
-                                background: purple;
-}
-
 a {
                                 color: purple;
 }
@@ -29,14 +25,6 @@ div > ul > li {
                                 color: purple;
                                 font-weight: bold;
                                 font-style: italic;
-}
-
-.table-img {
-                                margin: 2;
-}
-
-.img-table {
-                                background-color: white;
 }
 
 #p-group-1 {

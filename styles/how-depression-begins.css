@@ -1,0 +1,35 @@
+* {
+                                margin: 0;
+                                padding: 0;
+                                color: blue;
+}
+
+a {
+                                color: purple;
+}
+
+a:hover {
+                                color: red;
+}
+
+div {
+                                border: 5px solid purple;
+}
+
+.page-header {
+                                color: purple;
+                                font-weight: bold;
+                                font-style: italic;
+}
+
+#p-group-1 {
+                                border: 3px solid black;
+}
+
+#p-group-2 {
+                                border: 3px solid blue;
+}
+
+a[href="https://www.ucvts.tec.nj.us/"] {
+                                color: green;
+}
